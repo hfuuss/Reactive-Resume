@@ -12,8 +12,8 @@
 ![Localization](https://badges.crowdin.net/reactive-resume/localized.svg)
 ![GitHub](https://img.shields.io/github/license/AmruthPillai/Reactive-Resume)
 
-#### A Free and Open-Source Resume Builder That Respects Your Privacy
+#### 一个免费的开源简历生成器，尊重您的隐私
 
-Welcome to the front page of **Reactive Resume**, a free and open-source Resume Builder web app that focuses on one thing, **Privacy**. And also few other important features such as minimalistic UI/UX, customizability, portability, regularly updated templates, etc. But the important thing is that, your personal data is yours alone.
+欢迎来到Reactive Resume的首页，Reactive Resume是一个免费的开源Resume Builder网络应用程序，专注于隐私这一方面。 还有一些其他重要功能，例如简约的UI / UX，可定制性，可移植性，定期更新的模板等。但是重要的是，您的个人数据是您自己的。
 
-### [Go to App](https://rxresu.me/) | [Documentation](https://docs.rxresu.me/)
+### [Go to App](https://rxresu.me/) | [文档](https://docs.rxresu.me/)
