@@ -1,6 +1,10 @@
 <img src="https://i.imgur.com/4eps4gP.png" alt="Reactive Resume" width="256px"  height="256px"/>
 
 # Reactive Resume
+* react hook 实际解决方案
+* 国际化解决方案
+* docker方案
+
 
 ![Build & Deploy](https://github.com/AmruthPillai/Reactive-Resume/workflows/Build%20&%20Deploy/badge.svg)
 ![Code Style](https://badgen.net/badge/code%20style/airbnb/ff5a5f?icon=airbnb)
